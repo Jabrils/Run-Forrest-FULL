@@ -1,0 +1,3 @@
+1,2,Issa_Trap,1,0,10,True,test
+1,2,Issa_Trap,0,0,25,True,Shaboo
+1,2,Issa_Trap,1,0,50,True,HAHAHA
