@@ -11,3 +11,5 @@ It requires Unity3D to run, & if you want to watch my 4 part devlog on it, here 
 To modify the parameters such as Crossover Function & such, i've made it really easy for you & all you have to do is find the gameobject titled "menuParams" & that has a script called Menu Params that you can modify.
 
 Modify this code until your hearts content, & remember to always feed your curiosity!
+
+P.S. If this is too much to take in all at once, perhaps biting off of the more simple version that I originally released here: https://github.com/SEFDStuff/Run-Forrest-Open-Source
